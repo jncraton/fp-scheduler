@@ -1,7 +1,7 @@
 Fixed-priority Scheduler
 ========================
 
-An example fixed-priority scheduler.
+An example [fixed-priority scheduler](https://en.wikipedia.org/wiki/Fixed-priority_pre-emptive_scheduling).
 
 There are two tasks to complete in this lab.
 
