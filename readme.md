@@ -1,5 +1,5 @@
-Fixed-priority Schedule
-=======================
+Fixed-priority Scheduler
+========================
 
 An example fixed-priority scheduler.
 
