@@ -6,7 +6,7 @@ An example [fixed-priority scheduler](https://en.wikipedia.org/wiki/Fixed-priori
 There are two tasks to complete in this lab.
 
 1. Set the appropriate priorities for the threads in the `threads` array. Consider the theorems we discussed in class regarding [rate-monotonic scheduling](https://en.wikipedia.org/wiki/Rate-monotonic_scheduling)
-2. Implement the scheduler as described.
+2. Implement the `schedule` function as described in the description in the source code comments.
 
 Testing
 -------
